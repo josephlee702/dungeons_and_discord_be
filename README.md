@@ -16,38 +16,6 @@ Link to [Front End Service](https://github.com/aevans27/Dungeons-and-Discord-FE)
 - [VCR](https://github.com/vcr/vcr) / [Webmock](https://github.com/bblimke/webmock) Both utilized to stub HTTP requests in tests to simulate API interactions
 - [Omniauth](https://github.com/omniauth/omniauth) A gem for Oauth 
 
-## Installation Instructions
- - Fork Repository
- - `git clone <repo_name>`
- - `cd <repo_name>`
- - `bundle install`   
- - `rails db:{drop,create,migrate,seed}`
- - `rails s`
-
-A step by step series of examples that tell you how to get a development environment running
-
-Say what the step will be
-
-Give the example
-And repeat
-
-until finished
-End with an example of getting some data out of the system or using it for a little demo
-
-Running the tests
-Explain how to run the automated tests for this system
-
-Sample Tests
-Explain what these tests test and why
-
-Give an example
-Style test
-Checks if the best practices and the right coding style has been used.
-
-Give an example
-Deployment
-Add additional notes to deploy this on a live system
-
 ## Project Description
 Tired of having to lug around a sheet of paper with all of characters attributes for your Dungeons and Dragons games? You get all the way to the Dungeon Master's lair and forgot your character sheet? Cry no longer, weary traveler, **Dungeons and Discord** is here! Utilizing Discord to log in to the app, users are able to create characters by naming the character and selecting a class. Once the character has been created, this character is stored for you, so you don't have to remember that pesky piece of paper again! Players can also utilize Discord's server creation so a DM can host a game over the voice channel and a session can happen from the comfort of your home, car, anywhere with stable connection to the internet!
 
